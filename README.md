@@ -1,4 +1,4 @@
-# Reporte_Empleados
+# Reporte de Empleados
 ### Dashboard de tres hojas con KPIs para RecursosHumanos.
 
 
@@ -8,3 +8,5 @@ El sueldo promedio, edad promedio, evaluación del desempeño, ubicación, ...
 La segunda hoja se centra en el análisis de sueldos de los distintos empleados.
 
 La tercera hoja se centra en la Evaluación del desempeño de los distintos empleados.
+
+Se incluye el archivo .json con el tema utilizado para el reporte.
